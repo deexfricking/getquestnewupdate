@@ -741,7 +741,7 @@ local quests = {
         {
             LevelReq = 2700,
             Name = "Grand Devotees",
-            Task = { ["Ocean Prophet"] = 8 },
+            Task = { ["Grand Devotees"] = 8 },
             Reward = { Beli = 15700, Exp = 156000000 },
             Args = { "StartQuest", "SubmergedQuest3", 2 }
         }
